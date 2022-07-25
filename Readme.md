@@ -4,8 +4,8 @@
 ``` gcc main.c courses.c functions.c students.c -lpthread```
 
 Threads for following entities have been used:
-<br>1.Courses
-<br>2.Students
+- Courses
+- Students
 
 ## Student Thread
 Once a thread enters the function , sleep haults its execution until registration time .
