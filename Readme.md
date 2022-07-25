@@ -17,9 +17,10 @@ Once a thread enters the function , sleep haults its execution until registratio
 
 
 ## Course thread
-Performs 3 tasks
+Performs following tasks
 - Check if lab has been removed
 - Select a student for the course
 - Check if tas are available in the lab and update information.
-<br>It checks lab removal . If lab is available, it starts selecting students then tas.
-<br>If no lab is available course is removed. 
+- It checks lab removal 
+  - If lab is available, it starts selecting students followed by TAs.
+  - If no lab is available course is removed. 
