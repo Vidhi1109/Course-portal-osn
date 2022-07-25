@@ -1,4 +1,4 @@
-# Question 1
+# Course Allocation System
 
 ## To Run
 ``` gcc main.c courses.c functions.c students.c -lpthread```
